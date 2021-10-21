@@ -1,0 +1,8 @@
+database:
+  folder_path: db/
+plex:
+  plex_libraryname: 
+  plex_token: 
+  plex_url: 
+  plex_user_token:                # Run once to get user token
+  plex_username: 
